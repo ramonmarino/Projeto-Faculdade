@@ -1,0 +1,118 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Open+Sans:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap');
+
+
+
+
+.primeiraImagem{
+	text-align: center;
+}
+
+.primeiraImagem img{
+	max-width: 100%;
+    height: auto;
+}
+
+
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+	
+}
+
+h1{
+	color: #66bbff;
+	text-align: center;
+	font-family: 'Doodle Rubik', sans-serif;
+	
+}
+
+.login{
+	text-align:center;
+}
+
+
+
+
+ 
+
+.botao1{
+	text-decoration: none;
+	background-color: #D99789;
+	padding: 5px 10px 5px 10px;
+	color:#fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 10px;
+	border: 0;
+	cursor:pointer;
+	margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    
+    
+	
+	
+	
+}
+
+.botao2{
+	text-decoration: none;
+	background-color:red;
+	padding: 5px 10px 5px 10px;
+	color:#fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	
+}
+
+.caixa1{
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+.caixa2{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #66bbff;
+	border-radius: 5px;
+}
+
+#caixa3{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ff0000;
+	
+}
+
+#tabela{
+	margin-top: 30px;
+	
+}
+
+#tabela th{
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-align: left;
+	background-color: #66bbff;
+	color: #fff;
+	
+	
+}
+
+#tabela td{
+	border: 1px solid #ddd;
+	padding: 10px;
+	
+}
+
